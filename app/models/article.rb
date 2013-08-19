@@ -431,7 +431,7 @@ class Article < Content
 
     return true
   end
-  
+
   protected
 
   def set_published_at
